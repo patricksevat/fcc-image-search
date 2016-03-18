@@ -1,0 +1,12 @@
+{
+  "name": "FCC-image-search",
+  "version": "0.0.0",
+  "description": "FCC image search",
+  "main": "server.js",
+  "repository": "",
+  "author": "Patrick Sevat",
+  "dependencies": {
+    "express": "^4.13.4",
+    "mongoose": "^4.4.7"
+  }
+}
